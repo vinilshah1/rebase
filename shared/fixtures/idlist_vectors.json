@@ -1,0 +1,7439 @@
+{
+  "format": "idlist-vectors-v1",
+  "seed": 1904983,
+  "ops": [
+    {
+      "type": "insert",
+      "beforeId": null,
+      "newId": {
+        "bunchId": "bunch-beta",
+        "counter": 0
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 1
+      },
+      "newId": {
+        "bunchId": "bunch-beta",
+        "counter": 4
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 1
+      },
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 0
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 3
+      },
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 0
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      },
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 4
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-delta",
+        "counter": 0
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 0
+      },
+      "count": 1
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-alpha",
+        "counter": 2
+      },
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 8
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 1
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 1
+      },
+      "count": 3
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      },
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 4
+      },
+      "count": 3
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      },
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 7
+      },
+      "count": 1
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      },
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 12
+      },
+      "count": 4
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      },
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 16
+      },
+      "count": 3
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-delta",
+        "counter": 3
+      },
+      "newId": {
+        "bunchId": "bunch-beta",
+        "counter": 8
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 4
+      },
+      "count": 3
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": null,
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 8
+      },
+      "count": 3
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-alpha",
+        "counter": 9
+      }
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-beta",
+        "counter": 0
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-alpha",
+        "counter": 9
+      },
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 11
+      },
+      "count": 2
+    },
+    {
+      "type": "insert",
+      "beforeId": null,
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 7
+      },
+      "count": 1
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 0
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 8
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-alpha",
+        "counter": 6
+      },
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 13
+      },
+      "count": 4
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-delta",
+        "counter": 5
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-alpha",
+        "counter": 9
+      },
+      "newId": {
+        "bunchId": "bunch-beta",
+        "counter": 12
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-delta",
+        "counter": 0
+      },
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 19
+      },
+      "count": 1
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-gamma",
+        "counter": 6
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": null,
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 20
+      },
+      "count": 4
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-gamma",
+        "counter": 6
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-gamma",
+        "counter": 5
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 12
+      },
+      "count": 3
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 14
+      },
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 24
+      },
+      "count": 2
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-delta",
+        "counter": 20
+      },
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 17
+      },
+      "count": 3
+    },
+    {
+      "type": "insert",
+      "beforeId": null,
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 20
+      },
+      "count": 1
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-gamma",
+        "counter": 9
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-delta",
+        "counter": 20
+      },
+      "newId": {
+        "bunchId": "bunch-delta",
+        "counter": 26
+      },
+      "count": 3
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-alpha",
+        "counter": 9
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 15
+      },
+      "count": 1
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-gamma",
+        "counter": 8
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 16
+      },
+      "count": 3
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-gamma",
+        "counter": 9
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-alpha",
+        "counter": 2
+      },
+      "newId": {
+        "bunchId": "bunch-alpha",
+        "counter": 21
+      },
+      "count": 2
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-delta",
+        "counter": 3
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-gamma",
+        "counter": 6
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 19
+      },
+      "count": 4
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-alpha",
+        "counter": 8
+      },
+      "newId": {
+        "bunchId": "bunch-beta",
+        "counter": 16
+      },
+      "count": 1
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-alpha",
+        "counter": 9
+      }
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-delta",
+        "counter": 23
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      },
+      "newId": {
+        "bunchId": "bunch-beta",
+        "counter": 17
+      },
+      "count": 3
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-beta",
+        "counter": 5
+      }
+    },
+    {
+      "type": "insert",
+      "beforeId": {
+        "bunchId": "bunch-delta",
+        "counter": 18
+      },
+      "newId": {
+        "bunchId": "bunch-gamma",
+        "counter": 23
+      },
+      "count": 2
+    },
+    {
+      "type": "delete",
+      "targetId": {
+        "bunchId": "bunch-beta",
+        "counter": 13
+      }
+    }
+  ],
+  "checkpoints": [
+    {
+      "opCount": 0,
+      "save": [],
+      "known": [],
+      "at": [],
+      "indexOf": []
+    },
+    {
+      "opCount": 10,
+      "save": [
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 0,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 4,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 5,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 4,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 4,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 6,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 2,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 0,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 3,
+          "count": 1,
+          "isDeleted": false
+        }
+      ],
+      "known": [
+        [
+          "bunch-beta",
+          0,
+          false
+        ],
+        [
+          "bunch-beta",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          2,
+          false
+        ],
+        [
+          "bunch-gamma",
+          3,
+          false
+        ],
+        [
+          "bunch-delta",
+          0,
+          false
+        ],
+        [
+          "bunch-gamma",
+          0,
+          false
+        ],
+        [
+          "bunch-delta",
+          1,
+          false
+        ],
+        [
+          "bunch-delta",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          3,
+          false
+        ],
+        [
+          "bunch-beta",
+          4,
+          false
+        ],
+        [
+          "bunch-beta",
+          5,
+          true
+        ],
+        [
+          "bunch-alpha",
+          4,
+          false
+        ],
+        [
+          "bunch-alpha",
+          5,
+          false
+        ],
+        [
+          "bunch-alpha",
+          6,
+          false
+        ],
+        [
+          "bunch-delta",
+          4,
+          false
+        ],
+        [
+          "bunch-delta",
+          5,
+          false
+        ],
+        [
+          "bunch-delta",
+          6,
+          false
+        ],
+        [
+          "bunch-delta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          6,
+          false
+        ],
+        [
+          "bunch-beta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          2,
+          false
+        ],
+        [
+          "bunch-beta",
+          3,
+          false
+        ],
+        [
+          "bunch-alpha",
+          0,
+          false
+        ],
+        [
+          "bunch-alpha",
+          1,
+          false
+        ],
+        [
+          "bunch-alpha",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          8,
+          false
+        ],
+        [
+          "bunch-delta",
+          9,
+          false
+        ],
+        [
+          "bunch-delta",
+          10,
+          false
+        ],
+        [
+          "bunch-delta",
+          11,
+          false
+        ],
+        [
+          "bunch-alpha",
+          3,
+          false
+        ]
+      ],
+      "at": [
+        {
+          "bunchId": "bunch-beta",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 3
+        }
+      ],
+      "indexOf": [
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 0
+          },
+          "none": 0,
+          "left": 0,
+          "right": 0
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 1
+          },
+          "none": 1,
+          "left": 1,
+          "right": 1
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 1
+          },
+          "none": 2,
+          "left": 2,
+          "right": 2
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 2
+          },
+          "none": 3,
+          "left": 3,
+          "right": 3
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 3
+          },
+          "none": 4,
+          "left": 4,
+          "right": 4
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 0
+          },
+          "none": 5,
+          "left": 5,
+          "right": 5
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 0
+          },
+          "none": 6,
+          "left": 6,
+          "right": 6
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 1
+          },
+          "none": 7,
+          "left": 7,
+          "right": 7
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 2
+          },
+          "none": 8,
+          "left": 8,
+          "right": 8
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 3
+          },
+          "none": 9,
+          "left": 9,
+          "right": 9
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 4
+          },
+          "none": 10,
+          "left": 10,
+          "right": 10
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 5
+          },
+          "none": -1,
+          "left": 10,
+          "right": 11
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 4
+          },
+          "none": 11,
+          "left": 11,
+          "right": 11
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 5
+          },
+          "none": 12,
+          "left": 12,
+          "right": 12
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 6
+          },
+          "none": 13,
+          "left": 13,
+          "right": 13
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 4
+          },
+          "none": 14,
+          "left": 14,
+          "right": 14
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 5
+          },
+          "none": 15,
+          "left": 15,
+          "right": 15
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 6
+          },
+          "none": 16,
+          "left": 16,
+          "right": 16
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 7
+          },
+          "none": 17,
+          "left": 17,
+          "right": 17
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 6
+          },
+          "none": 18,
+          "left": 18,
+          "right": 18
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 7
+          },
+          "none": 19,
+          "left": 19,
+          "right": 19
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 2
+          },
+          "none": 20,
+          "left": 20,
+          "right": 20
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 3
+          },
+          "none": 21,
+          "left": 21,
+          "right": 21
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 0
+          },
+          "none": 22,
+          "left": 22,
+          "right": 22
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 1
+          },
+          "none": 23,
+          "left": 23,
+          "right": 23
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 2
+          },
+          "none": 24,
+          "left": 24,
+          "right": 24
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 8
+          },
+          "none": 25,
+          "left": 25,
+          "right": 25
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 9
+          },
+          "none": 26,
+          "left": 26,
+          "right": 26
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 10
+          },
+          "none": 27,
+          "left": 27,
+          "right": 27
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 11
+          },
+          "none": 28,
+          "left": 28,
+          "right": 28
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 3
+          },
+          "none": 29,
+          "left": 29,
+          "right": 29
+        }
+      ]
+    },
+    {
+      "opCount": 20,
+      "save": [
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 8,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 9,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 10,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 1,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 4,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 5,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 4,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 16,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 12,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 7,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 4,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 4,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 6,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 2,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 0,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 3,
+          "count": 1,
+          "isDeleted": false
+        }
+      ],
+      "known": [
+        [
+          "bunch-alpha",
+          8,
+          false
+        ],
+        [
+          "bunch-alpha",
+          9,
+          true
+        ],
+        [
+          "bunch-alpha",
+          10,
+          false
+        ],
+        [
+          "bunch-beta",
+          0,
+          true
+        ],
+        [
+          "bunch-beta",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          2,
+          false
+        ],
+        [
+          "bunch-gamma",
+          3,
+          false
+        ],
+        [
+          "bunch-delta",
+          0,
+          false
+        ],
+        [
+          "bunch-gamma",
+          0,
+          false
+        ],
+        [
+          "bunch-delta",
+          1,
+          false
+        ],
+        [
+          "bunch-delta",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          3,
+          false
+        ],
+        [
+          "bunch-beta",
+          8,
+          false
+        ],
+        [
+          "bunch-beta",
+          9,
+          false
+        ],
+        [
+          "bunch-beta",
+          10,
+          false
+        ],
+        [
+          "bunch-beta",
+          11,
+          false
+        ],
+        [
+          "bunch-beta",
+          4,
+          false
+        ],
+        [
+          "bunch-beta",
+          5,
+          true
+        ],
+        [
+          "bunch-gamma",
+          4,
+          false
+        ],
+        [
+          "bunch-gamma",
+          5,
+          false
+        ],
+        [
+          "bunch-gamma",
+          6,
+          false
+        ],
+        [
+          "bunch-delta",
+          16,
+          false
+        ],
+        [
+          "bunch-delta",
+          17,
+          false
+        ],
+        [
+          "bunch-delta",
+          18,
+          false
+        ],
+        [
+          "bunch-delta",
+          12,
+          false
+        ],
+        [
+          "bunch-delta",
+          13,
+          false
+        ],
+        [
+          "bunch-delta",
+          14,
+          false
+        ],
+        [
+          "bunch-delta",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          7,
+          false
+        ],
+        [
+          "bunch-alpha",
+          4,
+          false
+        ],
+        [
+          "bunch-alpha",
+          5,
+          false
+        ],
+        [
+          "bunch-alpha",
+          6,
+          false
+        ],
+        [
+          "bunch-delta",
+          4,
+          false
+        ],
+        [
+          "bunch-delta",
+          5,
+          false
+        ],
+        [
+          "bunch-delta",
+          6,
+          false
+        ],
+        [
+          "bunch-delta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          6,
+          false
+        ],
+        [
+          "bunch-beta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          2,
+          false
+        ],
+        [
+          "bunch-beta",
+          3,
+          false
+        ],
+        [
+          "bunch-alpha",
+          0,
+          false
+        ],
+        [
+          "bunch-alpha",
+          1,
+          false
+        ],
+        [
+          "bunch-alpha",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          8,
+          false
+        ],
+        [
+          "bunch-delta",
+          9,
+          false
+        ],
+        [
+          "bunch-delta",
+          10,
+          false
+        ],
+        [
+          "bunch-delta",
+          11,
+          false
+        ],
+        [
+          "bunch-alpha",
+          3,
+          false
+        ]
+      ],
+      "at": [
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 3
+        }
+      ],
+      "indexOf": [
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 8
+          },
+          "none": 0,
+          "left": 0,
+          "right": 0
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 9
+          },
+          "none": -1,
+          "left": 0,
+          "right": 1
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 10
+          },
+          "none": 1,
+          "left": 1,
+          "right": 1
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 0
+          },
+          "none": -1,
+          "left": 1,
+          "right": 2
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 1
+          },
+          "none": 2,
+          "left": 2,
+          "right": 2
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 1
+          },
+          "none": 3,
+          "left": 3,
+          "right": 3
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 2
+          },
+          "none": 4,
+          "left": 4,
+          "right": 4
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 3
+          },
+          "none": 5,
+          "left": 5,
+          "right": 5
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 0
+          },
+          "none": 6,
+          "left": 6,
+          "right": 6
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 0
+          },
+          "none": 7,
+          "left": 7,
+          "right": 7
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 1
+          },
+          "none": 8,
+          "left": 8,
+          "right": 8
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 2
+          },
+          "none": 9,
+          "left": 9,
+          "right": 9
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 3
+          },
+          "none": 10,
+          "left": 10,
+          "right": 10
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 8
+          },
+          "none": 11,
+          "left": 11,
+          "right": 11
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 9
+          },
+          "none": 12,
+          "left": 12,
+          "right": 12
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 10
+          },
+          "none": 13,
+          "left": 13,
+          "right": 13
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 11
+          },
+          "none": 14,
+          "left": 14,
+          "right": 14
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 4
+          },
+          "none": 15,
+          "left": 15,
+          "right": 15
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 5
+          },
+          "none": -1,
+          "left": 15,
+          "right": 16
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 4
+          },
+          "none": 16,
+          "left": 16,
+          "right": 16
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 5
+          },
+          "none": 17,
+          "left": 17,
+          "right": 17
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 6
+          },
+          "none": 18,
+          "left": 18,
+          "right": 18
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 16
+          },
+          "none": 19,
+          "left": 19,
+          "right": 19
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 17
+          },
+          "none": 20,
+          "left": 20,
+          "right": 20
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 18
+          },
+          "none": 21,
+          "left": 21,
+          "right": 21
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 12
+          },
+          "none": 22,
+          "left": 22,
+          "right": 22
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 13
+          },
+          "none": 23,
+          "left": 23,
+          "right": 23
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 14
+          },
+          "none": 24,
+          "left": 24,
+          "right": 24
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 15
+          },
+          "none": 25,
+          "left": 25,
+          "right": 25
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 7
+          },
+          "none": 26,
+          "left": 26,
+          "right": 26
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 4
+          },
+          "none": 27,
+          "left": 27,
+          "right": 27
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 5
+          },
+          "none": 28,
+          "left": 28,
+          "right": 28
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 6
+          },
+          "none": 29,
+          "left": 29,
+          "right": 29
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 4
+          },
+          "none": 30,
+          "left": 30,
+          "right": 30
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 5
+          },
+          "none": 31,
+          "left": 31,
+          "right": 31
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 6
+          },
+          "none": 32,
+          "left": 32,
+          "right": 32
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 7
+          },
+          "none": 33,
+          "left": 33,
+          "right": 33
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 6
+          },
+          "none": 34,
+          "left": 34,
+          "right": 34
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 7
+          },
+          "none": 35,
+          "left": 35,
+          "right": 35
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 2
+          },
+          "none": 36,
+          "left": 36,
+          "right": 36
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 3
+          },
+          "none": 37,
+          "left": 37,
+          "right": 37
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 0
+          },
+          "none": 38,
+          "left": 38,
+          "right": 38
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 1
+          },
+          "none": 39,
+          "left": 39,
+          "right": 39
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 2
+          },
+          "none": 40,
+          "left": 40,
+          "right": 40
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 8
+          },
+          "none": 41,
+          "left": 41,
+          "right": 41
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 9
+          },
+          "none": 42,
+          "left": 42,
+          "right": 42
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 10
+          },
+          "none": 43,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 11
+          },
+          "none": 44,
+          "left": 44,
+          "right": 44
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 3
+          },
+          "none": 45,
+          "left": 45,
+          "right": 45
+        }
+      ]
+    },
+    {
+      "opCount": 30,
+      "save": [
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 20,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 7,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 8,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 9,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 12,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 11,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 10,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 1,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 19,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 4,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 5,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 4,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 6,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 16,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 12,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 7,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 4,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 13,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 4,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 5,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 6,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 6,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 2,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 0,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 3,
+          "count": 1,
+          "isDeleted": false
+        }
+      ],
+      "known": [
+        [
+          "bunch-delta",
+          20,
+          false
+        ],
+        [
+          "bunch-delta",
+          21,
+          false
+        ],
+        [
+          "bunch-delta",
+          22,
+          false
+        ],
+        [
+          "bunch-delta",
+          23,
+          false
+        ],
+        [
+          "bunch-gamma",
+          7,
+          false
+        ],
+        [
+          "bunch-alpha",
+          8,
+          false
+        ],
+        [
+          "bunch-alpha",
+          9,
+          true
+        ],
+        [
+          "bunch-beta",
+          12,
+          false
+        ],
+        [
+          "bunch-beta",
+          13,
+          false
+        ],
+        [
+          "bunch-beta",
+          14,
+          false
+        ],
+        [
+          "bunch-beta",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          11,
+          false
+        ],
+        [
+          "bunch-alpha",
+          12,
+          false
+        ],
+        [
+          "bunch-alpha",
+          10,
+          false
+        ],
+        [
+          "bunch-beta",
+          0,
+          true
+        ],
+        [
+          "bunch-gamma",
+          8,
+          false
+        ],
+        [
+          "bunch-gamma",
+          9,
+          false
+        ],
+        [
+          "bunch-gamma",
+          10,
+          false
+        ],
+        [
+          "bunch-gamma",
+          11,
+          false
+        ],
+        [
+          "bunch-beta",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          2,
+          false
+        ],
+        [
+          "bunch-gamma",
+          3,
+          false
+        ],
+        [
+          "bunch-delta",
+          0,
+          false
+        ],
+        [
+          "bunch-delta",
+          19,
+          false
+        ],
+        [
+          "bunch-gamma",
+          0,
+          false
+        ],
+        [
+          "bunch-delta",
+          1,
+          false
+        ],
+        [
+          "bunch-delta",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          3,
+          false
+        ],
+        [
+          "bunch-beta",
+          8,
+          false
+        ],
+        [
+          "bunch-beta",
+          9,
+          false
+        ],
+        [
+          "bunch-beta",
+          10,
+          false
+        ],
+        [
+          "bunch-beta",
+          11,
+          false
+        ],
+        [
+          "bunch-beta",
+          4,
+          false
+        ],
+        [
+          "bunch-beta",
+          5,
+          true
+        ],
+        [
+          "bunch-gamma",
+          4,
+          false
+        ],
+        [
+          "bunch-gamma",
+          5,
+          false
+        ],
+        [
+          "bunch-gamma",
+          6,
+          true
+        ],
+        [
+          "bunch-delta",
+          16,
+          false
+        ],
+        [
+          "bunch-delta",
+          17,
+          false
+        ],
+        [
+          "bunch-delta",
+          18,
+          false
+        ],
+        [
+          "bunch-delta",
+          12,
+          false
+        ],
+        [
+          "bunch-delta",
+          13,
+          false
+        ],
+        [
+          "bunch-delta",
+          14,
+          false
+        ],
+        [
+          "bunch-delta",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          7,
+          false
+        ],
+        [
+          "bunch-alpha",
+          4,
+          false
+        ],
+        [
+          "bunch-alpha",
+          5,
+          false
+        ],
+        [
+          "bunch-alpha",
+          6,
+          false
+        ],
+        [
+          "bunch-alpha",
+          13,
+          false
+        ],
+        [
+          "bunch-alpha",
+          14,
+          false
+        ],
+        [
+          "bunch-alpha",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          16,
+          false
+        ],
+        [
+          "bunch-delta",
+          4,
+          false
+        ],
+        [
+          "bunch-delta",
+          5,
+          true
+        ],
+        [
+          "bunch-delta",
+          6,
+          false
+        ],
+        [
+          "bunch-delta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          6,
+          false
+        ],
+        [
+          "bunch-beta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          2,
+          false
+        ],
+        [
+          "bunch-beta",
+          3,
+          false
+        ],
+        [
+          "bunch-alpha",
+          0,
+          false
+        ],
+        [
+          "bunch-alpha",
+          1,
+          false
+        ],
+        [
+          "bunch-alpha",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          8,
+          false
+        ],
+        [
+          "bunch-delta",
+          9,
+          false
+        ],
+        [
+          "bunch-delta",
+          10,
+          false
+        ],
+        [
+          "bunch-delta",
+          11,
+          false
+        ],
+        [
+          "bunch-alpha",
+          3,
+          false
+        ]
+      ],
+      "at": [
+        {
+          "bunchId": "bunch-delta",
+          "counter": 20
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 21
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 22
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 23
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 19
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 3
+        }
+      ],
+      "indexOf": [
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 20
+          },
+          "none": 0,
+          "left": 0,
+          "right": 0
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 21
+          },
+          "none": 1,
+          "left": 1,
+          "right": 1
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 22
+          },
+          "none": 2,
+          "left": 2,
+          "right": 2
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 23
+          },
+          "none": 3,
+          "left": 3,
+          "right": 3
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 7
+          },
+          "none": 4,
+          "left": 4,
+          "right": 4
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 8
+          },
+          "none": 5,
+          "left": 5,
+          "right": 5
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 9
+          },
+          "none": -1,
+          "left": 5,
+          "right": 6
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 12
+          },
+          "none": 6,
+          "left": 6,
+          "right": 6
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 13
+          },
+          "none": 7,
+          "left": 7,
+          "right": 7
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 14
+          },
+          "none": 8,
+          "left": 8,
+          "right": 8
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 15
+          },
+          "none": 9,
+          "left": 9,
+          "right": 9
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 11
+          },
+          "none": 10,
+          "left": 10,
+          "right": 10
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 12
+          },
+          "none": 11,
+          "left": 11,
+          "right": 11
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 10
+          },
+          "none": 12,
+          "left": 12,
+          "right": 12
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 0
+          },
+          "none": -1,
+          "left": 12,
+          "right": 13
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 8
+          },
+          "none": 13,
+          "left": 13,
+          "right": 13
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 9
+          },
+          "none": 14,
+          "left": 14,
+          "right": 14
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 10
+          },
+          "none": 15,
+          "left": 15,
+          "right": 15
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 11
+          },
+          "none": 16,
+          "left": 16,
+          "right": 16
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 1
+          },
+          "none": 17,
+          "left": 17,
+          "right": 17
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 1
+          },
+          "none": 18,
+          "left": 18,
+          "right": 18
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 2
+          },
+          "none": 19,
+          "left": 19,
+          "right": 19
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 3
+          },
+          "none": 20,
+          "left": 20,
+          "right": 20
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 0
+          },
+          "none": 21,
+          "left": 21,
+          "right": 21
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 19
+          },
+          "none": 22,
+          "left": 22,
+          "right": 22
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 0
+          },
+          "none": 23,
+          "left": 23,
+          "right": 23
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 1
+          },
+          "none": 24,
+          "left": 24,
+          "right": 24
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 2
+          },
+          "none": 25,
+          "left": 25,
+          "right": 25
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 3
+          },
+          "none": 26,
+          "left": 26,
+          "right": 26
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 8
+          },
+          "none": 27,
+          "left": 27,
+          "right": 27
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 9
+          },
+          "none": 28,
+          "left": 28,
+          "right": 28
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 10
+          },
+          "none": 29,
+          "left": 29,
+          "right": 29
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 11
+          },
+          "none": 30,
+          "left": 30,
+          "right": 30
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 4
+          },
+          "none": 31,
+          "left": 31,
+          "right": 31
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 5
+          },
+          "none": -1,
+          "left": 31,
+          "right": 32
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 4
+          },
+          "none": 32,
+          "left": 32,
+          "right": 32
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 5
+          },
+          "none": 33,
+          "left": 33,
+          "right": 33
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 6
+          },
+          "none": -1,
+          "left": 33,
+          "right": 34
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 16
+          },
+          "none": 34,
+          "left": 34,
+          "right": 34
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 17
+          },
+          "none": 35,
+          "left": 35,
+          "right": 35
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 18
+          },
+          "none": 36,
+          "left": 36,
+          "right": 36
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 12
+          },
+          "none": 37,
+          "left": 37,
+          "right": 37
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 13
+          },
+          "none": 38,
+          "left": 38,
+          "right": 38
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 14
+          },
+          "none": 39,
+          "left": 39,
+          "right": 39
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 15
+          },
+          "none": 40,
+          "left": 40,
+          "right": 40
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 7
+          },
+          "none": 41,
+          "left": 41,
+          "right": 41
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 4
+          },
+          "none": 42,
+          "left": 42,
+          "right": 42
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 5
+          },
+          "none": 43,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 6
+          },
+          "none": 44,
+          "left": 44,
+          "right": 44
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 13
+          },
+          "none": 45,
+          "left": 45,
+          "right": 45
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 14
+          },
+          "none": 46,
+          "left": 46,
+          "right": 46
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 15
+          },
+          "none": 47,
+          "left": 47,
+          "right": 47
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 16
+          },
+          "none": 48,
+          "left": 48,
+          "right": 48
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 4
+          },
+          "none": 49,
+          "left": 49,
+          "right": 49
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 5
+          },
+          "none": -1,
+          "left": 49,
+          "right": 50
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 6
+          },
+          "none": 50,
+          "left": 50,
+          "right": 50
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 7
+          },
+          "none": 51,
+          "left": 51,
+          "right": 51
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 6
+          },
+          "none": 52,
+          "left": 52,
+          "right": 52
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 7
+          },
+          "none": 53,
+          "left": 53,
+          "right": 53
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 2
+          },
+          "none": 54,
+          "left": 54,
+          "right": 54
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 3
+          },
+          "none": 55,
+          "left": 55,
+          "right": 55
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 0
+          },
+          "none": 56,
+          "left": 56,
+          "right": 56
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 1
+          },
+          "none": 57,
+          "left": 57,
+          "right": 57
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 2
+          },
+          "none": 58,
+          "left": 58,
+          "right": 58
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 8
+          },
+          "none": 59,
+          "left": 59,
+          "right": 59
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 9
+          },
+          "none": 60,
+          "left": 60,
+          "right": 60
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 10
+          },
+          "none": 61,
+          "left": 61,
+          "right": 61
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 11
+          },
+          "none": 62,
+          "left": 62,
+          "right": 62
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 3
+          },
+          "none": 63,
+          "left": 63,
+          "right": 63
+        }
+      ]
+    },
+    {
+      "opCount": 40,
+      "save": [
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 20,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 20,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 26,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 17,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 21,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 7,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 8,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 9,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 15,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 12,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 24,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 15,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 11,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 10,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 8,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 16,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 9,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 10,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 1,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 19,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 4,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 5,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 4,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 12,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 6,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 16,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 12,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 7,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 4,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 13,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 4,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 5,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 6,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 6,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 2,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 0,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 3,
+          "count": 1,
+          "isDeleted": false
+        }
+      ],
+      "known": [
+        [
+          "bunch-alpha",
+          20,
+          false
+        ],
+        [
+          "bunch-delta",
+          20,
+          false
+        ],
+        [
+          "bunch-delta",
+          26,
+          false
+        ],
+        [
+          "bunch-delta",
+          27,
+          false
+        ],
+        [
+          "bunch-delta",
+          28,
+          false
+        ],
+        [
+          "bunch-alpha",
+          17,
+          false
+        ],
+        [
+          "bunch-alpha",
+          18,
+          false
+        ],
+        [
+          "bunch-alpha",
+          19,
+          false
+        ],
+        [
+          "bunch-delta",
+          21,
+          false
+        ],
+        [
+          "bunch-delta",
+          22,
+          false
+        ],
+        [
+          "bunch-delta",
+          23,
+          false
+        ],
+        [
+          "bunch-gamma",
+          7,
+          false
+        ],
+        [
+          "bunch-alpha",
+          8,
+          false
+        ],
+        [
+          "bunch-alpha",
+          9,
+          true
+        ],
+        [
+          "bunch-gamma",
+          15,
+          false
+        ],
+        [
+          "bunch-beta",
+          12,
+          false
+        ],
+        [
+          "bunch-beta",
+          13,
+          false
+        ],
+        [
+          "bunch-beta",
+          14,
+          false
+        ],
+        [
+          "bunch-delta",
+          24,
+          false
+        ],
+        [
+          "bunch-delta",
+          25,
+          false
+        ],
+        [
+          "bunch-beta",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          11,
+          false
+        ],
+        [
+          "bunch-alpha",
+          12,
+          false
+        ],
+        [
+          "bunch-alpha",
+          10,
+          false
+        ],
+        [
+          "bunch-beta",
+          0,
+          true
+        ],
+        [
+          "bunch-gamma",
+          8,
+          false
+        ],
+        [
+          "bunch-gamma",
+          16,
+          false
+        ],
+        [
+          "bunch-gamma",
+          17,
+          false
+        ],
+        [
+          "bunch-gamma",
+          18,
+          false
+        ],
+        [
+          "bunch-gamma",
+          9,
+          true
+        ],
+        [
+          "bunch-gamma",
+          10,
+          false
+        ],
+        [
+          "bunch-gamma",
+          11,
+          false
+        ],
+        [
+          "bunch-beta",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          2,
+          false
+        ],
+        [
+          "bunch-gamma",
+          3,
+          false
+        ],
+        [
+          "bunch-delta",
+          0,
+          false
+        ],
+        [
+          "bunch-delta",
+          19,
+          false
+        ],
+        [
+          "bunch-gamma",
+          0,
+          false
+        ],
+        [
+          "bunch-delta",
+          1,
+          false
+        ],
+        [
+          "bunch-delta",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          3,
+          false
+        ],
+        [
+          "bunch-beta",
+          8,
+          false
+        ],
+        [
+          "bunch-beta",
+          9,
+          false
+        ],
+        [
+          "bunch-beta",
+          10,
+          false
+        ],
+        [
+          "bunch-beta",
+          11,
+          false
+        ],
+        [
+          "bunch-beta",
+          4,
+          false
+        ],
+        [
+          "bunch-beta",
+          5,
+          true
+        ],
+        [
+          "bunch-gamma",
+          4,
+          false
+        ],
+        [
+          "bunch-gamma",
+          5,
+          false
+        ],
+        [
+          "bunch-gamma",
+          12,
+          false
+        ],
+        [
+          "bunch-gamma",
+          13,
+          false
+        ],
+        [
+          "bunch-gamma",
+          14,
+          false
+        ],
+        [
+          "bunch-gamma",
+          6,
+          true
+        ],
+        [
+          "bunch-delta",
+          16,
+          false
+        ],
+        [
+          "bunch-delta",
+          17,
+          false
+        ],
+        [
+          "bunch-delta",
+          18,
+          false
+        ],
+        [
+          "bunch-delta",
+          12,
+          false
+        ],
+        [
+          "bunch-delta",
+          13,
+          false
+        ],
+        [
+          "bunch-delta",
+          14,
+          false
+        ],
+        [
+          "bunch-delta",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          7,
+          false
+        ],
+        [
+          "bunch-alpha",
+          4,
+          false
+        ],
+        [
+          "bunch-alpha",
+          5,
+          false
+        ],
+        [
+          "bunch-alpha",
+          6,
+          false
+        ],
+        [
+          "bunch-alpha",
+          13,
+          false
+        ],
+        [
+          "bunch-alpha",
+          14,
+          false
+        ],
+        [
+          "bunch-alpha",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          16,
+          false
+        ],
+        [
+          "bunch-delta",
+          4,
+          false
+        ],
+        [
+          "bunch-delta",
+          5,
+          true
+        ],
+        [
+          "bunch-delta",
+          6,
+          false
+        ],
+        [
+          "bunch-delta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          6,
+          false
+        ],
+        [
+          "bunch-beta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          2,
+          false
+        ],
+        [
+          "bunch-beta",
+          3,
+          false
+        ],
+        [
+          "bunch-alpha",
+          0,
+          false
+        ],
+        [
+          "bunch-alpha",
+          1,
+          false
+        ],
+        [
+          "bunch-alpha",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          8,
+          false
+        ],
+        [
+          "bunch-delta",
+          9,
+          false
+        ],
+        [
+          "bunch-delta",
+          10,
+          false
+        ],
+        [
+          "bunch-delta",
+          11,
+          false
+        ],
+        [
+          "bunch-alpha",
+          3,
+          false
+        ]
+      ],
+      "at": [
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 20
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 20
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 26
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 27
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 28
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 19
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 21
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 22
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 23
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 24
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 25
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 19
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 3
+        }
+      ],
+      "indexOf": [
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 20
+          },
+          "none": 0,
+          "left": 0,
+          "right": 0
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 20
+          },
+          "none": 1,
+          "left": 1,
+          "right": 1
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 26
+          },
+          "none": 2,
+          "left": 2,
+          "right": 2
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 27
+          },
+          "none": 3,
+          "left": 3,
+          "right": 3
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 28
+          },
+          "none": 4,
+          "left": 4,
+          "right": 4
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 17
+          },
+          "none": 5,
+          "left": 5,
+          "right": 5
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 18
+          },
+          "none": 6,
+          "left": 6,
+          "right": 6
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 19
+          },
+          "none": 7,
+          "left": 7,
+          "right": 7
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 21
+          },
+          "none": 8,
+          "left": 8,
+          "right": 8
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 22
+          },
+          "none": 9,
+          "left": 9,
+          "right": 9
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 23
+          },
+          "none": 10,
+          "left": 10,
+          "right": 10
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 7
+          },
+          "none": 11,
+          "left": 11,
+          "right": 11
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 8
+          },
+          "none": 12,
+          "left": 12,
+          "right": 12
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 9
+          },
+          "none": -1,
+          "left": 12,
+          "right": 13
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 15
+          },
+          "none": 13,
+          "left": 13,
+          "right": 13
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 12
+          },
+          "none": 14,
+          "left": 14,
+          "right": 14
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 13
+          },
+          "none": 15,
+          "left": 15,
+          "right": 15
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 14
+          },
+          "none": 16,
+          "left": 16,
+          "right": 16
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 24
+          },
+          "none": 17,
+          "left": 17,
+          "right": 17
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 25
+          },
+          "none": 18,
+          "left": 18,
+          "right": 18
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 15
+          },
+          "none": 19,
+          "left": 19,
+          "right": 19
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 11
+          },
+          "none": 20,
+          "left": 20,
+          "right": 20
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 12
+          },
+          "none": 21,
+          "left": 21,
+          "right": 21
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 10
+          },
+          "none": 22,
+          "left": 22,
+          "right": 22
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 0
+          },
+          "none": -1,
+          "left": 22,
+          "right": 23
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 8
+          },
+          "none": 23,
+          "left": 23,
+          "right": 23
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 16
+          },
+          "none": 24,
+          "left": 24,
+          "right": 24
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 17
+          },
+          "none": 25,
+          "left": 25,
+          "right": 25
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 18
+          },
+          "none": 26,
+          "left": 26,
+          "right": 26
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 9
+          },
+          "none": -1,
+          "left": 26,
+          "right": 27
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 10
+          },
+          "none": 27,
+          "left": 27,
+          "right": 27
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 11
+          },
+          "none": 28,
+          "left": 28,
+          "right": 28
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 1
+          },
+          "none": 29,
+          "left": 29,
+          "right": 29
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 1
+          },
+          "none": 30,
+          "left": 30,
+          "right": 30
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 2
+          },
+          "none": 31,
+          "left": 31,
+          "right": 31
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 3
+          },
+          "none": 32,
+          "left": 32,
+          "right": 32
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 0
+          },
+          "none": 33,
+          "left": 33,
+          "right": 33
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 19
+          },
+          "none": 34,
+          "left": 34,
+          "right": 34
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 0
+          },
+          "none": 35,
+          "left": 35,
+          "right": 35
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 1
+          },
+          "none": 36,
+          "left": 36,
+          "right": 36
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 2
+          },
+          "none": 37,
+          "left": 37,
+          "right": 37
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 3
+          },
+          "none": 38,
+          "left": 38,
+          "right": 38
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 8
+          },
+          "none": 39,
+          "left": 39,
+          "right": 39
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 9
+          },
+          "none": 40,
+          "left": 40,
+          "right": 40
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 10
+          },
+          "none": 41,
+          "left": 41,
+          "right": 41
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 11
+          },
+          "none": 42,
+          "left": 42,
+          "right": 42
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 4
+          },
+          "none": 43,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 5
+          },
+          "none": -1,
+          "left": 43,
+          "right": 44
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 4
+          },
+          "none": 44,
+          "left": 44,
+          "right": 44
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 5
+          },
+          "none": 45,
+          "left": 45,
+          "right": 45
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 12
+          },
+          "none": 46,
+          "left": 46,
+          "right": 46
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 13
+          },
+          "none": 47,
+          "left": 47,
+          "right": 47
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 14
+          },
+          "none": 48,
+          "left": 48,
+          "right": 48
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 6
+          },
+          "none": -1,
+          "left": 48,
+          "right": 49
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 16
+          },
+          "none": 49,
+          "left": 49,
+          "right": 49
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 17
+          },
+          "none": 50,
+          "left": 50,
+          "right": 50
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 18
+          },
+          "none": 51,
+          "left": 51,
+          "right": 51
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 12
+          },
+          "none": 52,
+          "left": 52,
+          "right": 52
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 13
+          },
+          "none": 53,
+          "left": 53,
+          "right": 53
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 14
+          },
+          "none": 54,
+          "left": 54,
+          "right": 54
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 15
+          },
+          "none": 55,
+          "left": 55,
+          "right": 55
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 7
+          },
+          "none": 56,
+          "left": 56,
+          "right": 56
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 4
+          },
+          "none": 57,
+          "left": 57,
+          "right": 57
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 5
+          },
+          "none": 58,
+          "left": 58,
+          "right": 58
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 6
+          },
+          "none": 59,
+          "left": 59,
+          "right": 59
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 13
+          },
+          "none": 60,
+          "left": 60,
+          "right": 60
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 14
+          },
+          "none": 61,
+          "left": 61,
+          "right": 61
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 15
+          },
+          "none": 62,
+          "left": 62,
+          "right": 62
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 16
+          },
+          "none": 63,
+          "left": 63,
+          "right": 63
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 4
+          },
+          "none": 64,
+          "left": 64,
+          "right": 64
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 5
+          },
+          "none": -1,
+          "left": 64,
+          "right": 65
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 6
+          },
+          "none": 65,
+          "left": 65,
+          "right": 65
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 7
+          },
+          "none": 66,
+          "left": 66,
+          "right": 66
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 6
+          },
+          "none": 67,
+          "left": 67,
+          "right": 67
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 7
+          },
+          "none": 68,
+          "left": 68,
+          "right": 68
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 2
+          },
+          "none": 69,
+          "left": 69,
+          "right": 69
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 3
+          },
+          "none": 70,
+          "left": 70,
+          "right": 70
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 0
+          },
+          "none": 71,
+          "left": 71,
+          "right": 71
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 1
+          },
+          "none": 72,
+          "left": 72,
+          "right": 72
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 2
+          },
+          "none": 73,
+          "left": 73,
+          "right": 73
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 8
+          },
+          "none": 74,
+          "left": 74,
+          "right": 74
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 9
+          },
+          "none": 75,
+          "left": 75,
+          "right": 75
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 10
+          },
+          "none": 76,
+          "left": 76,
+          "right": 76
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 11
+          },
+          "none": 77,
+          "left": 77,
+          "right": 77
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 3
+          },
+          "none": 78,
+          "left": 78,
+          "right": 78
+        }
+      ]
+    },
+    {
+      "opCount": 50,
+      "save": [
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 20,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 20,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 26,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 17,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 21,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 23,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 7,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 8,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 16,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 9,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 15,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 12,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 13,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 14,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 24,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 15,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 11,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 10,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 8,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 16,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 9,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 10,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 1,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 1,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 19,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 0,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 1,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 3,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 4,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 5,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 17,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 4,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 12,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 6,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 19,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 16,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "startCounter": 23,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 12,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 7,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 4,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 13,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 4,
+          "count": 1,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 5,
+          "count": 1,
+          "isDeleted": true
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 6,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 6,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-beta",
+          "startCounter": 2,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 0,
+          "count": 3,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 21,
+          "count": 2,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-delta",
+          "startCounter": 8,
+          "count": 4,
+          "isDeleted": false
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "startCounter": 3,
+          "count": 1,
+          "isDeleted": false
+        }
+      ],
+      "known": [
+        [
+          "bunch-alpha",
+          20,
+          false
+        ],
+        [
+          "bunch-delta",
+          20,
+          false
+        ],
+        [
+          "bunch-delta",
+          26,
+          false
+        ],
+        [
+          "bunch-delta",
+          27,
+          false
+        ],
+        [
+          "bunch-delta",
+          28,
+          false
+        ],
+        [
+          "bunch-alpha",
+          17,
+          false
+        ],
+        [
+          "bunch-alpha",
+          18,
+          false
+        ],
+        [
+          "bunch-alpha",
+          19,
+          false
+        ],
+        [
+          "bunch-delta",
+          21,
+          false
+        ],
+        [
+          "bunch-delta",
+          22,
+          false
+        ],
+        [
+          "bunch-delta",
+          23,
+          true
+        ],
+        [
+          "bunch-gamma",
+          7,
+          false
+        ],
+        [
+          "bunch-alpha",
+          8,
+          false
+        ],
+        [
+          "bunch-beta",
+          16,
+          false
+        ],
+        [
+          "bunch-alpha",
+          9,
+          true
+        ],
+        [
+          "bunch-gamma",
+          15,
+          false
+        ],
+        [
+          "bunch-beta",
+          12,
+          false
+        ],
+        [
+          "bunch-beta",
+          13,
+          true
+        ],
+        [
+          "bunch-beta",
+          14,
+          false
+        ],
+        [
+          "bunch-delta",
+          24,
+          false
+        ],
+        [
+          "bunch-delta",
+          25,
+          false
+        ],
+        [
+          "bunch-beta",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          11,
+          false
+        ],
+        [
+          "bunch-alpha",
+          12,
+          false
+        ],
+        [
+          "bunch-alpha",
+          10,
+          false
+        ],
+        [
+          "bunch-beta",
+          0,
+          true
+        ],
+        [
+          "bunch-gamma",
+          8,
+          false
+        ],
+        [
+          "bunch-gamma",
+          16,
+          false
+        ],
+        [
+          "bunch-gamma",
+          17,
+          false
+        ],
+        [
+          "bunch-gamma",
+          18,
+          false
+        ],
+        [
+          "bunch-gamma",
+          9,
+          true
+        ],
+        [
+          "bunch-gamma",
+          10,
+          false
+        ],
+        [
+          "bunch-gamma",
+          11,
+          false
+        ],
+        [
+          "bunch-beta",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          1,
+          false
+        ],
+        [
+          "bunch-gamma",
+          2,
+          false
+        ],
+        [
+          "bunch-gamma",
+          3,
+          false
+        ],
+        [
+          "bunch-delta",
+          0,
+          false
+        ],
+        [
+          "bunch-delta",
+          19,
+          false
+        ],
+        [
+          "bunch-gamma",
+          0,
+          false
+        ],
+        [
+          "bunch-delta",
+          1,
+          false
+        ],
+        [
+          "bunch-delta",
+          2,
+          false
+        ],
+        [
+          "bunch-delta",
+          3,
+          true
+        ],
+        [
+          "bunch-beta",
+          8,
+          false
+        ],
+        [
+          "bunch-beta",
+          9,
+          false
+        ],
+        [
+          "bunch-beta",
+          10,
+          false
+        ],
+        [
+          "bunch-beta",
+          11,
+          false
+        ],
+        [
+          "bunch-beta",
+          4,
+          false
+        ],
+        [
+          "bunch-beta",
+          5,
+          true
+        ],
+        [
+          "bunch-beta",
+          17,
+          false
+        ],
+        [
+          "bunch-beta",
+          18,
+          false
+        ],
+        [
+          "bunch-beta",
+          19,
+          false
+        ],
+        [
+          "bunch-gamma",
+          4,
+          false
+        ],
+        [
+          "bunch-gamma",
+          5,
+          false
+        ],
+        [
+          "bunch-gamma",
+          12,
+          false
+        ],
+        [
+          "bunch-gamma",
+          13,
+          false
+        ],
+        [
+          "bunch-gamma",
+          14,
+          false
+        ],
+        [
+          "bunch-gamma",
+          6,
+          true
+        ],
+        [
+          "bunch-gamma",
+          19,
+          false
+        ],
+        [
+          "bunch-gamma",
+          20,
+          false
+        ],
+        [
+          "bunch-gamma",
+          21,
+          false
+        ],
+        [
+          "bunch-gamma",
+          22,
+          false
+        ],
+        [
+          "bunch-delta",
+          16,
+          false
+        ],
+        [
+          "bunch-delta",
+          17,
+          false
+        ],
+        [
+          "bunch-delta",
+          18,
+          false
+        ],
+        [
+          "bunch-gamma",
+          23,
+          false
+        ],
+        [
+          "bunch-gamma",
+          24,
+          false
+        ],
+        [
+          "bunch-delta",
+          12,
+          false
+        ],
+        [
+          "bunch-delta",
+          13,
+          false
+        ],
+        [
+          "bunch-delta",
+          14,
+          false
+        ],
+        [
+          "bunch-delta",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          7,
+          false
+        ],
+        [
+          "bunch-alpha",
+          4,
+          false
+        ],
+        [
+          "bunch-alpha",
+          5,
+          false
+        ],
+        [
+          "bunch-alpha",
+          6,
+          false
+        ],
+        [
+          "bunch-alpha",
+          13,
+          false
+        ],
+        [
+          "bunch-alpha",
+          14,
+          false
+        ],
+        [
+          "bunch-alpha",
+          15,
+          false
+        ],
+        [
+          "bunch-alpha",
+          16,
+          false
+        ],
+        [
+          "bunch-delta",
+          4,
+          false
+        ],
+        [
+          "bunch-delta",
+          5,
+          true
+        ],
+        [
+          "bunch-delta",
+          6,
+          false
+        ],
+        [
+          "bunch-delta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          6,
+          false
+        ],
+        [
+          "bunch-beta",
+          7,
+          false
+        ],
+        [
+          "bunch-beta",
+          2,
+          false
+        ],
+        [
+          "bunch-beta",
+          3,
+          false
+        ],
+        [
+          "bunch-alpha",
+          0,
+          false
+        ],
+        [
+          "bunch-alpha",
+          1,
+          false
+        ],
+        [
+          "bunch-alpha",
+          2,
+          false
+        ],
+        [
+          "bunch-alpha",
+          21,
+          false
+        ],
+        [
+          "bunch-alpha",
+          22,
+          false
+        ],
+        [
+          "bunch-delta",
+          8,
+          false
+        ],
+        [
+          "bunch-delta",
+          9,
+          false
+        ],
+        [
+          "bunch-delta",
+          10,
+          false
+        ],
+        [
+          "bunch-delta",
+          11,
+          false
+        ],
+        [
+          "bunch-alpha",
+          3,
+          false
+        ]
+      ],
+      "at": [
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 20
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 20
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 26
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 27
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 28
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 19
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 21
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 22
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 24
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 25
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 19
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 19
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 19
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 20
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 21
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 22
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 17
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 18
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 23
+        },
+        {
+          "bunchId": "bunch-gamma",
+          "counter": 24
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 12
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 5
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 13
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 14
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 15
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 16
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 4
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 6
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 7
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-beta",
+          "counter": 3
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 0
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 1
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 2
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 21
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 22
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 8
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 9
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 10
+        },
+        {
+          "bunchId": "bunch-delta",
+          "counter": 11
+        },
+        {
+          "bunchId": "bunch-alpha",
+          "counter": 3
+        }
+      ],
+      "indexOf": [
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 20
+          },
+          "none": 0,
+          "left": 0,
+          "right": 0
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 20
+          },
+          "none": 1,
+          "left": 1,
+          "right": 1
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 26
+          },
+          "none": 2,
+          "left": 2,
+          "right": 2
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 27
+          },
+          "none": 3,
+          "left": 3,
+          "right": 3
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 28
+          },
+          "none": 4,
+          "left": 4,
+          "right": 4
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 17
+          },
+          "none": 5,
+          "left": 5,
+          "right": 5
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 18
+          },
+          "none": 6,
+          "left": 6,
+          "right": 6
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 19
+          },
+          "none": 7,
+          "left": 7,
+          "right": 7
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 21
+          },
+          "none": 8,
+          "left": 8,
+          "right": 8
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 22
+          },
+          "none": 9,
+          "left": 9,
+          "right": 9
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 23
+          },
+          "none": -1,
+          "left": 9,
+          "right": 10
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 7
+          },
+          "none": 10,
+          "left": 10,
+          "right": 10
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 8
+          },
+          "none": 11,
+          "left": 11,
+          "right": 11
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 16
+          },
+          "none": 12,
+          "left": 12,
+          "right": 12
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 9
+          },
+          "none": -1,
+          "left": 12,
+          "right": 13
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 15
+          },
+          "none": 13,
+          "left": 13,
+          "right": 13
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 12
+          },
+          "none": 14,
+          "left": 14,
+          "right": 14
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 13
+          },
+          "none": -1,
+          "left": 14,
+          "right": 15
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 14
+          },
+          "none": 15,
+          "left": 15,
+          "right": 15
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 24
+          },
+          "none": 16,
+          "left": 16,
+          "right": 16
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 25
+          },
+          "none": 17,
+          "left": 17,
+          "right": 17
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 15
+          },
+          "none": 18,
+          "left": 18,
+          "right": 18
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 11
+          },
+          "none": 19,
+          "left": 19,
+          "right": 19
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 12
+          },
+          "none": 20,
+          "left": 20,
+          "right": 20
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 10
+          },
+          "none": 21,
+          "left": 21,
+          "right": 21
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 0
+          },
+          "none": -1,
+          "left": 21,
+          "right": 22
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 8
+          },
+          "none": 22,
+          "left": 22,
+          "right": 22
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 16
+          },
+          "none": 23,
+          "left": 23,
+          "right": 23
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 17
+          },
+          "none": 24,
+          "left": 24,
+          "right": 24
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 18
+          },
+          "none": 25,
+          "left": 25,
+          "right": 25
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 9
+          },
+          "none": -1,
+          "left": 25,
+          "right": 26
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 10
+          },
+          "none": 26,
+          "left": 26,
+          "right": 26
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 11
+          },
+          "none": 27,
+          "left": 27,
+          "right": 27
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 1
+          },
+          "none": 28,
+          "left": 28,
+          "right": 28
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 1
+          },
+          "none": 29,
+          "left": 29,
+          "right": 29
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 2
+          },
+          "none": 30,
+          "left": 30,
+          "right": 30
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 3
+          },
+          "none": 31,
+          "left": 31,
+          "right": 31
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 0
+          },
+          "none": 32,
+          "left": 32,
+          "right": 32
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 19
+          },
+          "none": 33,
+          "left": 33,
+          "right": 33
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 0
+          },
+          "none": 34,
+          "left": 34,
+          "right": 34
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 1
+          },
+          "none": 35,
+          "left": 35,
+          "right": 35
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 2
+          },
+          "none": 36,
+          "left": 36,
+          "right": 36
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 3
+          },
+          "none": -1,
+          "left": 36,
+          "right": 37
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 8
+          },
+          "none": 37,
+          "left": 37,
+          "right": 37
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 9
+          },
+          "none": 38,
+          "left": 38,
+          "right": 38
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 10
+          },
+          "none": 39,
+          "left": 39,
+          "right": 39
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 11
+          },
+          "none": 40,
+          "left": 40,
+          "right": 40
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 4
+          },
+          "none": 41,
+          "left": 41,
+          "right": 41
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 5
+          },
+          "none": -1,
+          "left": 41,
+          "right": 42
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 17
+          },
+          "none": 42,
+          "left": 42,
+          "right": 42
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 18
+          },
+          "none": 43,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 19
+          },
+          "none": 44,
+          "left": 44,
+          "right": 44
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 4
+          },
+          "none": 45,
+          "left": 45,
+          "right": 45
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 5
+          },
+          "none": 46,
+          "left": 46,
+          "right": 46
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 12
+          },
+          "none": 47,
+          "left": 47,
+          "right": 47
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 13
+          },
+          "none": 48,
+          "left": 48,
+          "right": 48
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 14
+          },
+          "none": 49,
+          "left": 49,
+          "right": 49
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 6
+          },
+          "none": -1,
+          "left": 49,
+          "right": 50
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 19
+          },
+          "none": 50,
+          "left": 50,
+          "right": 50
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 20
+          },
+          "none": 51,
+          "left": 51,
+          "right": 51
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 21
+          },
+          "none": 52,
+          "left": 52,
+          "right": 52
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 22
+          },
+          "none": 53,
+          "left": 53,
+          "right": 53
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 16
+          },
+          "none": 54,
+          "left": 54,
+          "right": 54
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 17
+          },
+          "none": 55,
+          "left": 55,
+          "right": 55
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 18
+          },
+          "none": 56,
+          "left": 56,
+          "right": 56
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 23
+          },
+          "none": 57,
+          "left": 57,
+          "right": 57
+        },
+        {
+          "id": {
+            "bunchId": "bunch-gamma",
+            "counter": 24
+          },
+          "none": 58,
+          "left": 58,
+          "right": 58
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 12
+          },
+          "none": 59,
+          "left": 59,
+          "right": 59
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 13
+          },
+          "none": 60,
+          "left": 60,
+          "right": 60
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 14
+          },
+          "none": 61,
+          "left": 61,
+          "right": 61
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 15
+          },
+          "none": 62,
+          "left": 62,
+          "right": 62
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 7
+          },
+          "none": 63,
+          "left": 63,
+          "right": 63
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 4
+          },
+          "none": 64,
+          "left": 64,
+          "right": 64
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 5
+          },
+          "none": 65,
+          "left": 65,
+          "right": 65
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 6
+          },
+          "none": 66,
+          "left": 66,
+          "right": 66
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 13
+          },
+          "none": 67,
+          "left": 67,
+          "right": 67
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 14
+          },
+          "none": 68,
+          "left": 68,
+          "right": 68
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 15
+          },
+          "none": 69,
+          "left": 69,
+          "right": 69
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 16
+          },
+          "none": 70,
+          "left": 70,
+          "right": 70
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 4
+          },
+          "none": 71,
+          "left": 71,
+          "right": 71
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 5
+          },
+          "none": -1,
+          "left": 71,
+          "right": 72
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 6
+          },
+          "none": 72,
+          "left": 72,
+          "right": 72
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 7
+          },
+          "none": 73,
+          "left": 73,
+          "right": 73
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 6
+          },
+          "none": 74,
+          "left": 74,
+          "right": 74
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 7
+          },
+          "none": 75,
+          "left": 75,
+          "right": 75
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 2
+          },
+          "none": 76,
+          "left": 76,
+          "right": 76
+        },
+        {
+          "id": {
+            "bunchId": "bunch-beta",
+            "counter": 3
+          },
+          "none": 77,
+          "left": 77,
+          "right": 77
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 0
+          },
+          "none": 78,
+          "left": 78,
+          "right": 78
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 1
+          },
+          "none": 79,
+          "left": 79,
+          "right": 79
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 2
+          },
+          "none": 80,
+          "left": 80,
+          "right": 80
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 21
+          },
+          "none": 81,
+          "left": 81,
+          "right": 81
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 22
+          },
+          "none": 82,
+          "left": 82,
+          "right": 82
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 8
+          },
+          "none": 83,
+          "left": 83,
+          "right": 83
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 9
+          },
+          "none": 84,
+          "left": 84,
+          "right": 84
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 10
+          },
+          "none": 85,
+          "left": 85,
+          "right": 85
+        },
+        {
+          "id": {
+            "bunchId": "bunch-delta",
+            "counter": 11
+          },
+          "none": 86,
+          "left": 86,
+          "right": 86
+        },
+        {
+          "id": {
+            "bunchId": "bunch-alpha",
+            "counter": 3
+          },
+          "none": 87,
+          "left": 87,
+          "right": 87
+        }
+      ]
+    }
+  ]
+}
