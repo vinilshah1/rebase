@@ -5,13 +5,13 @@ ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
 cd "$ROOT/backend"
 
-echo "==> furl: Ruff"
+echo "==> rebase: Ruff"
 ruff check .
 
-echo "==> furl: basedpyright"
+echo "==> rebase: basedpyright"
 basedpyright
 
-echo "==> furl: pytest"
+echo "==> rebase: pytest"
 
 set +e
 uv run pytest -q
@@ -24,10 +24,10 @@ fi
 
 cd "$ROOT/frontend"
 
-echo "==> furl: TypeScript"
+echo "==> rebase: TypeScript"
 npx tsc --noEmit
 
-echo "==> furl: Vitest"
+echo "==> rebase: Vitest"
 npx vitest run --passWithNoTests
 
-echo "==> furl: All checks passed"
+echo "==> rebase: All checks passed"

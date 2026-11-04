@@ -98,7 +98,7 @@ wheels = [
 ]
 
 [[package]]
-name = "furl-backend"
+name = "rebase-backend"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

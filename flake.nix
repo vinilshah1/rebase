@@ -1,6 +1,6 @@
 
 {
-  description = "furl development environment";
+  description = "rebase development environment";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
@@ -25,7 +25,7 @@
           export PYTHONUNBUFFERED=1
           export PYTHONDONTWRITEBYTECODE=1
 
-          echo "Welcome to furl development"
+          echo "Welcome to rebase development"
           echo "Python: $(python --version)"
           echo "Node: $(node --version)"
           echo "uv: $(uv --version)"

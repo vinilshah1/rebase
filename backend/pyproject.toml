@@ -1,8 +1,8 @@
 
 [project]
-name = "furl-backend"
+name = "rebase-backend"
 version = "0.1.0"
-description = "Furl backend"
+description = "Rebase backend"
 requires-python = ">=3.13,<3.14"
 dependencies = [
     "channels>=4.3,<5",

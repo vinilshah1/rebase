@@ -1,8 +1,8 @@
-# Furl
+# Rebase
 
 ## Setup Overview
 
-Furl supports two development workflows:
+Rebase supports two development workflows:
 
 - **Standard setup:** Uses `uv`, Node.js, and locally installed services. Nix is not required.
 - **Nix setup:** Uses the provided Nix Flake and direnv configuration for a reproducible development environment.
@@ -79,7 +79,7 @@ npm run dev
 
 ## Option 2: Reproducible Setup (Using Nix)
 
-Furl includes a Nix Flake that provides a consistent development environment.
+Rebase includes a Nix Flake that provides a consistent development environment.
 
 ### Prerequisites
 
@@ -118,7 +118,7 @@ npm run dev
 
 ## Quality Assurance & Linting
 
-Furl provides a repository-level check script for running the project's quality checks.
+Rebase provides a repository-level check script for running the project's quality checks.
 
 From the repository root:
 
@@ -141,7 +141,7 @@ All checks should pass before submitting changes.
 ## Project Structure
 
 ```text
-furl/
+rebase/
 ├── backend/          # Django and Channels backend
 ├── frontend/         # React, TypeScript, and Vite frontend
 ├── scripts/          # Development and quality-assurance scripts
