@@ -68,7 +68,7 @@ Already scaffolded by the human (Step 0). You create the files marked `NEW`.
             └── *.test.ts                # NEW  vitest
 ```
 
-Run everything from inside `nix develop`. There is no direnv and no Docker.
+The dev environment is loaded by direnv (`.envrc` with `use flake`) and inherited by this session. Run all commands from the repo root. Tools (`uv`, `ruff`, `basedpyright`, `node`, `npx`) are already on PATH. If any of them is missing or "command not found", **stop and tell the human**. Do not install anything, do not run `nix develop` or `nix shell` yourself, and do not work around it. There is no Docker.
 
 ---
 
@@ -244,7 +244,7 @@ ElevenLabs-inspired "quietly intelligent, tactile minimalism" with Tailwind CSS 
 
 ## 6. Step-by-Step Execution Plan
 
-0. **(Human, already done.)** `nix develop` works; `uv sync`/`npm install` done; Django settings stripped (no DB), Channels in-memory layer configured; Vite proxy, Tailwind, vitest, ruff/basedpyright/pytest configs in place; `./scripts/check.sh` passes on the empty skeleton.
+0. **(Human, already done.)** the direnv/flake environment loads; `uv sync`/`npm install` done; Django settings stripped (no DB), Channels in-memory layer configured; Vite proxy, Tailwind, vitest, ruff/basedpyright/pytest configs in place; `./scripts/check.sh` passes on the empty skeleton.
 1. Run `./scripts/check.sh` to confirm the baseline is green. Skim `node_modules/articulated/build/esm/id_list.d.ts` only if something in 3.B seems wrong. No commit needed if nothing changed.
 2. Write `frontend/scripts/gen-fixtures.ts` and generate `shared/fixtures/idlist_vectors.json`. Commit.
 3. Implement `backend/sync/id_list.py` and `test_id_list.py` (Python tests 1-4). Iterate until `ruff check`, `basedpyright`, and `pytest` are 100% clean. Commit.
