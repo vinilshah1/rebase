@@ -237,6 +237,7 @@ ElevenLabs-inspired "quietly intelligent, tactile minimalism" with Tailwind CSS 
 2. **Multi-change `iterChanges` test:** build a CodeMirror `ChangeSet` with several changes (including a multi-cursor-style edit and a replace-all) and assert that the ops produced by `onLocalChange`, replayed with `applyOp`, yield exactly CodeMirror's new document. This pins down the `fromB` rule.
 3. **`delayPipe.test.ts`** (fake timers): FIFO holds when latency is lowered mid-flight.
 4. **Python round-trip fixture test** (see Python test 4).
+5. **Caret placement test**: with the caret at the end of the document, a remote op deletes the character the caret is anchored on. After reconcile, the caret equals the new document length (not past it). A second case: a remote insert before the caret leaves the caret after the same character.
 
 **Optional stretch (only if everything else is green):** a Node script using the `ws` package that connects 3 clients to the real Django server, applies random edits with random delays, waits for quiescence, and asserts all final texts are equal.
 
