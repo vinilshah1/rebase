@@ -17,6 +17,8 @@
           python313
           uv
           ruff
+	  codex
+          opencode
           basedpyright
           nodejs_22
         ];
