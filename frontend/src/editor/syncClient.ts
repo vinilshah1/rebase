@@ -5,6 +5,11 @@ import { ElementIdGenerator } from 'articulated'
 import { DelayPipe } from './delayPipe'
 import { createState, initialize, onLocalChange, onServerOp, type ClientOp, type InitSnapshot, type LocalChange, type ServerOp } from './reconcile'
 
+// 128 random bits; getRandomValues also works on plain HTTP LAN origins.
+function randomId(): string {
+  return Array.from(crypto.getRandomValues(new Uint8Array(16)), byte => byte.toString(16).padStart(2, '0')).join('')
+}
+
 export const remoteSyncAnnotation = Annotation.define<boolean>()
 export type ConnectionStatus = 'CONNECTING' | 'INITIALIZING' | 'CONNECTED' | 'DISCONNECTED' | 'DESYNCED'
 export interface Telemetry {
@@ -39,10 +44,10 @@ export class SyncClient {
 
   constructor(parent: HTMLElement, room: string, latency: number, privateTelemetry: (value: Telemetry) => void) {
     this.publishTelemetry = privateTelemetry
-    const clientId = crypto.randomUUID()
-    const generator = new ElementIdGenerator(() => crypto.randomUUID())
+    const clientId = randomId()
+    const generator = new ElementIdGenerator(randomId)
     this.allocator = {
-      clientId, opId: () => crypto.randomUUID(),
+      clientId, opId: randomId,
       generateAfter: generator.generateAfter.bind(generator),
     }
     this.view = new EditorView({ parent, state: EditorState.create({ extensions: [

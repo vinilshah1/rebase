@@ -47,6 +47,8 @@ let socket: Socket
 let telemetry: Telemetry
 beforeEach(() => {
   vi.useFakeTimers()
+  // Match HTTP LAN origins: getRandomValues is available, randomUUID is not.
+  vi.stubGlobal('crypto', { getRandomValues: crypto.getRandomValues.bind(crypto) })
   vi.stubGlobal('WebSocket', Socket)
   vi.stubGlobal('location', { protocol: 'http:', host: 'localhost:5173' })
   Socket.instances = []
@@ -157,4 +159,15 @@ it('uses separate latency queues and freezes on disconnect without reconnecting'
   expect(client.view.state.readOnly).toBe(true)
   expect(Socket.instances).toHaveLength(1)
   expect(client.view.state.facet(EditorView.editable)).toBe(false)
+})
+
+it('generates collaboration IDs without randomUUID', async () => {
+  expect(crypto.randomUUID).toBeUndefined()
+  await init()
+  client.view.dispatch({ changes: { from: 3, insert: 'x' } })
+  await vi.runAllTimersAsync()
+  const op = socket.sent[0]!
+  const ids = [op.senderId, op.opId, (op.newId as { bunchId: string }).bunchId]
+  ids.forEach(id => expect(id).toMatch(/^[0-9a-f]{32}$/))
+  expect(new Set(ids).size).toBe(3)
 })
