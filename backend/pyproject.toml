@@ -12,6 +12,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "daphne>=4.2,<5",
     "django-stubs>=5.2",
     "hypothesis>=6",
     "pytest>=8",
